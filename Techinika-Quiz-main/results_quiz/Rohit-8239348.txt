@@ -1,0 +1,22 @@
+
+    Score of Round 1 Tecinika
+
+
+
+    RESULT : FAIL
+
+    Subbmission Date: 18/0/2024
+    Subbmission Time: 12:51:47:196
+    Name: Rohit
+
+    University: akra jain university
+
+    Phone Number: 8239348
+
+
+
+    score: 9/30
+
+
+    Answers Selected: document tag,SGML, Hypertext, Audio-voiced text,When the browser window has changed focus to other window,onchange,140,Used to provide width to a cell,To store information about external links,Green, Blue, Red,XML is used to describe hierarchically organized information,CellPadding,Confirm(),text-align,In pieces as it loads,In transient,Depends on propery,All of the Above,none,9 layers,open system interconnection,physical layer,calculating device,protocol,TELNET,LAN,Personal area network,Six layer,Ring network,lady adalovalace
+    

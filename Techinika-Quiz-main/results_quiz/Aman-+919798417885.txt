@@ -1,0 +1,22 @@
+
+    Score of Round 1 Tecinika
+
+
+
+    RESULT : FAIL
+
+    Subbmission Date: 18/0/2024
+    Subbmission Time: 13:33:50:155
+    Name: aman
+
+    University: arka
+
+    Phone Number: +919798417885
+
+
+
+    score: 9/30
+
+
+    Answers Selected: To create a hyperlink,To create a navigation menu,/* This is a comment */,Embedding audio files,,  , new, position: absolute; left: -9999px, Enables a flex container and the items inside it become flexible boxes,justify-content: center; align-items: center,Defines the number of columns in a flex container,element:hover { transition: background-color 0.3s; }, background: fixed url('image.jpg');,animation-iteration-count: infinite,Current function's scope,push()`,To store data that persists across sessions,Value equality without type conversion,preventDefault(),Pauses the execution of the code,let,A programming language,To style text,container-fluid,makes text responsive,It provides server-side scripting,By modifying the CSS file directly,hidden,Bus based network,Using the  tag
+    

@@ -1,0 +1,22 @@
+
+    Score of Round 1 Tecinika
+
+
+
+    RESULT : PASS
+
+    Subbmission Date: 18/0/2024
+    Subbmission Time: 13:39:34:67
+    Name: AMAN KUMAR KESHRI
+
+    University: ARKA JAIN UNIVERSITY
+
+    Phone Number: +919798417885
+
+
+
+    score: 19/30
+
+
+    Answers Selected: To define an abbreviation or acronym,To create a navigation menu,/* This is a comment */, Displaying images, , ,target, position: absolute; left: -9999px, Enables a flex container and the items inside it become flexible boxes,justify-content: center; align-items: center,Specifies the ability for a flex item to grow if necessary,element:hover { transition: background-color 0.3s; },background-attachment: fixed,animation-iteration-count: infinite,Global object,push()`,To store data that persists across sessions,Value equality without type conversion,preventDefault(),Delays the execution of a function, variable,A front-end framework,To create responsive layouts,container-fluid,It makes images responsive,It enhances the functionality of HTML elements,By modifying the CSS file directly,sr-only,Star network,Utilizing the data-tooltip attribute
+    

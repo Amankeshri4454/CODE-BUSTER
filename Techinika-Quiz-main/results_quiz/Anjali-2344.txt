@@ -1,0 +1,22 @@
+
+    Score of Round 1 Tecinika
+
+
+
+    RESULT : FAIL
+
+    Subbmission Date: 18/0/2024
+    Subbmission Time: 14:23:49:424
+    Name: Anjali
+
+    University: arka
+
+    Phone Number: 2344
+
+
+
+    score: 7/30
+
+
+    Answers Selected: To create a hyperlink,To define a navigation link,/* This is a comment */,Creating hyperlinks,,, new,visibility: hidden, Enables a flex container and the items inside it become flexible boxes,justify-content: center; align-items: center,Specifies the ability for a flex item to grow if necessary,element:hover { transition: background-color 0.3s; },background-scroll: fixed ,animation-repeat: infinite,Global object, addToEnd(),To store temporary data during a session, Value equality with type conversion,stopPropagation()`,Measures the time taken by a function,let,A programming language,To create responsive layouts,container-fluid,makes text responsive,It provides server-side scripting,By adjusting settings in the JavaScript file,hidden,Bus based network,Utilizing the data-tooltip attribute
+    

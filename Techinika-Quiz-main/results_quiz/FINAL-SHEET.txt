@@ -1,0 +1,12 @@
+       Name       Collage        Phone     Points      Results
+
+Rohit            8239348        akra jain university     9      FAIL
+
+Aman            +919798417885        Arka Jain University     12      PASS
+
+aman            +919798417885        arka     9      FAIL
+
+AMAN KUMAR KESHRI            +919798417885        ARKA JAIN UNIVERSITY     19      PASS
+
+Anjali            2344        arka     7      FAIL
+
